@@ -4,7 +4,7 @@ Previsão do tempo com estados de carregamento e erro.
 
 ## Demo
 
-Este projeto é uma demonstração independente de portfólio, com interface responsiva e interações funcionais no navegador.
+Esta é uma aplicação independente, com interface responsiva e interações funcionais no navegador.
 
 ## Problema
 
